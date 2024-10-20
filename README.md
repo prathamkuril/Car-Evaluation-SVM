@@ -1,4 +1,4 @@
-# Car Evaluation using Support Vector Machines (SVM)
+# Car Evaluation to predict safety of a car using Support Vector Machines (SVM)
 
 ## Project Overview
 
